@@ -4,10 +4,12 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal(animal) {
-  
-   
-  }
+function yourAnimal() {
+ if(animal === 'dog'){
+   animal = 'cat'}
+ return animal
+ }
+
 
 function add2(n) {
 
