@@ -5,9 +5,11 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-if(animal == )
-
-}
+  if(animal === 'dog'){
+   var animal ='cat'}
+   
+   return animal
+  }
 
 function add2(n) {
 
