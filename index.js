@@ -5,8 +5,8 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-if(animal === 'dog')
-  return animal 
+if(animal == )
+
 }
 
 function add2(n) {
