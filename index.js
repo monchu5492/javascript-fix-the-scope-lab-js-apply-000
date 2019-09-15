@@ -4,10 +4,8 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal() {
-  if(animal === 'dog'){
-   var animal ='cat'}
-   
+function yourAnimal(cat) {
+  
    return animal
   }
 
